@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5df57d7.css",
+    "main.js": "/static/js/main.17abcfc5.js",
+    "static/media/hero-slide-1.jpg": "/static/media/hero-slide-1.44155e122a6ce0ea9140.jpg",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/contact.jpg": "/static/media/contact.5b7c7e940fd7fdcdb698.jpg",
+    "static/media/template-image.jpg": "/static/media/template-image.cbefe5380f360a0e9569.jpg",
+    "static/media/instagram_logo.png": "/static/media/instagram_logo.95c6cd97b056cd57d67b.png",
+    "static/media/pinterest_logo.png": "/static/media/pinterest_logo.ae1ed82edfa9a12c443f.png",
+    "static/media/tiktok_logo.png": "/static/media/tiktok_logo.c80c3f09d2e6c5c68ae7.png",
+    "static/media/hero__icon_1.png": "/static/media/hero__icon_1.a9560f6fd2d16c586a21.png",
+    "index.html": "/index.html",
+    "main.e5df57d7.css.map": "/static/css/main.e5df57d7.css.map",
+    "main.17abcfc5.js.map": "/static/js/main.17abcfc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5df57d7.css",
+    "static/js/main.17abcfc5.js"
+  ]
+}
